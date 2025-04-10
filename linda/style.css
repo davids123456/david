@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: #001F3F;
+    color: white;
+    text-align: center;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .foto {
+    width: 90%;
+    max-width: 300px;
+    border-radius: 20px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px #ff69b4;
+  }
+  
+  .mensaje {
+    margin-top: 20px;
+    font-size: 1.1em;
+  }
+  
